@@ -1,7 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
 
-## Name: Piritharaman R
-## Reg no: 212223230148
+## Name: SUBASH B
+## Reg no: 212224220108
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
